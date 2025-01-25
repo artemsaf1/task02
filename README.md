@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task_02
 
 ![This day will help you get acquainted with git and improve your bash skills.](misc/rus/images/day2_door.png)
@@ -248,3 +249,6 @@
 ***LOADING...***
 
 # P.S. Тебе необходимо создать на своей странице GitHub отдельный репозиторий для данного проекта
+=======
+# task02
+>>>>>>> 64e83395d1ae96e6ba3e2bc5fbf7cef2e7e48d7e
